@@ -3,13 +3,11 @@
 This project is a clone of the Sidcup Golf Family website, aimed at replicating its features and design for learning purposes.
 Check it out ---> [(https://aryannxroot.github.io/Sidcup_golf_family](https://aryannxroot.github.io/Sidcup_golf_family).
 
-## Screenshots
+## Website
 
-### Homepage 
-![Homepage](./screenshots/home.png)
+### Home
+![Homepage](./images/home.png)
 
-### Feature Example
-![Feature Example](./screenshots/feature.png)
 
 ## Installation
 
@@ -31,6 +29,8 @@ Open the index.html with live server in vs code.
 - **JavaScript (ES6+)**: Modern JavaScript features.
 - **Unsplash API**: For fetching the images from unsplash.
 
+##
+
 ## Author
 
 Aryan (@aryannxroot)
@@ -38,3 +38,6 @@ Aryan (@aryannxroot)
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## LICENSE
+This project is licensed under the [MIT License](./LICENSE). See the MIT LICENSE file for more information.
