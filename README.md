@@ -1,7 +1,9 @@
 # Sidcup Golf Family Website clone
 
 This project is a clone of the Sidcup Golf Family website, aimed at replicating its features and design for learning purposes.
-Check it out ---> [(https://aryannxroot.github.io/Sidcup_golf_family](https://aryannxroot.github.io/Sidcup_golf_family).
+
+Original website - [https://sidcup-golf-family.netlify.app](https://sidcup-golf-family.netlify.app/)
+My project ---> [https://aryannxroot.github.io/Sidcup_golf_family](https://aryannxroot.github.io/Sidcup_golf_family).
 
 ## Website
 
