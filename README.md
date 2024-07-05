@@ -6,11 +6,9 @@ Original website ---> [https://sidcup-golf-family.netlify.app](https://sidcup-go
 
 My project ---> [https://aryannxroot.github.io/Sidcup_golf_family](https://aryannxroot.github.io/Sidcup_golf_family).
 
-## Website
+## Figma design
 
-### Home
-
-![Homepage](./images/home.png)
+![Figma design](./Figma_design/Figma%20design.png)
 
 
 ## Installation
