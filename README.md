@@ -1,7 +1,7 @@
-# Sidcup Golf Family Clone
+# Sidcup Golf Family Website clone
 
 This project is a clone of the Sidcup Golf Family website, aimed at replicating its features and design for learning purposes.
-Check it out ---> [(https://aryannxroot.github.io/Sidcup_golf_family_clone](https://aryannxroot.github.io/Sidcup_golf_family_clone).
+Check it out ---> [(https://aryannxroot.github.io/Sidcup_golf_family](https://aryannxroot.github.io/Sidcup_golf_family).
 
 ## Screenshots
 
@@ -16,8 +16,8 @@ Check it out ---> [(https://aryannxroot.github.io/Sidcup_golf_family_clone](http
 To get started with the project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/aryannxroot/Sidcup_golf_family_clone.git
-cd Sidcup_golf_family_clone
+git clone https://github.com/aryannxroot/Sidcup_golf_family.git
+cd Sidcup_golf_family
 ```
 
 ## Usage 
